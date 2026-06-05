@@ -1,5 +1,5 @@
 {
-  "name": "@qwen-code/qwen-code",
+  "name": "amira-cli",
   "version": "0.17.1",
   "engines": {
     "node": ">=22.0.0"
@@ -90,7 +90,7 @@
     "@types/react-dom": "^19.2.0"
   },
   "bin": {
-    "qwen": "dist/cli.js"
+    "amira": "dist/cli.js"
   },
   "files": [
     "dist/",
